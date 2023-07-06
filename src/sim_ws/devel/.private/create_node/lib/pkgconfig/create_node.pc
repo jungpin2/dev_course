@@ -1,0 +1,8 @@
+prefix=/home/jungpin/catkin_ws/src/sim_ws/devel/.private/create_node
+
+Name: create_node
+Description: Description of create_node
+Version: 2.3.1
+Cflags: -I/home/jungpin/catkin_ws/src/sim_ws/devel/.private/create_node/include
+Libs: -L${prefix}/lib 
+Requires: diagnostic_msgs geometry_msgs message_runtime nav_msgs

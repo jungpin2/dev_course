@@ -1,0 +1,8 @@
+prefix=/home/jungpin/catkin_ws/src/sim_ws/devel/.private/turtlebot3_navigation
+
+Name: turtlebot3_navigation
+Description: Description of turtlebot3_navigation
+Version: 0.1.6
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

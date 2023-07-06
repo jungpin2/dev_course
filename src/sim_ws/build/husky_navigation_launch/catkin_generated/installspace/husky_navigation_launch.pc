@@ -1,0 +1,8 @@
+prefix=/home/jungpin/catkin_ws/src/sim_ws/install
+
+Name: husky_navigation_launch
+Description: Description of husky_navigation_launch
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

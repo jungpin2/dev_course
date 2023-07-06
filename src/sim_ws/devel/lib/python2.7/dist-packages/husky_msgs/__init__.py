@@ -1,0 +1,1 @@
+/home/jungpin/catkin_ws/src/sim_ws/devel/.private/husky_msgs/lib/python2.7/dist-packages/husky_msgs/__init__.py

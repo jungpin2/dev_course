@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="tf" type="static_transform_publisher" name="static_tf_node" 
+          args="0 0 2 0 0 0 base_link button 30">
+    </node>
+</launch>

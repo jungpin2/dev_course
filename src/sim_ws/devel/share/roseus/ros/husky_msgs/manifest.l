@@ -1,0 +1,1 @@
+/home/jungpin/catkin_ws/src/sim_ws/devel/.private/husky_msgs/share/roseus/ros/husky_msgs/manifest.l

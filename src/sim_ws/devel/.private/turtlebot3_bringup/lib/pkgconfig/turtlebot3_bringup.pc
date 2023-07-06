@@ -1,0 +1,8 @@
+prefix=/home/jungpin/catkin_ws/src/sim_ws/devel/.private/turtlebot3_bringup
+
+Name: turtlebot3_bringup
+Description: Description of turtlebot3_bringup
+Version: 0.1.6
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

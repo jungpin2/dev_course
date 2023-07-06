@@ -1,0 +1,1 @@
+/home/jungpin/catkin_ws/src/sim_ws/devel/.private/t3_course/lib/pkgconfig/t3_course.pc

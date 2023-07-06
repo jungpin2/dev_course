@@ -1,0 +1,1 @@
+/home/jungpin/catkin_ws/src/sim_ws/devel/.private/husky_control/share/husky_control/cmake/husky_controlConfig.cmake

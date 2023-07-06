@@ -1,0 +1,1 @@
+/home/jungpin/catkin_ws/src/sim_ws/devel/.private/open_manipulator_msgs/share/common-lisp/ros/open_manipulator_msgs/msg/_package.lisp

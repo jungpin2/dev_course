@@ -1,0 +1,4 @@
+Symlinking /home/jungpin/catkin_ws/src/sim_ws/devel/share/open_manipulator_description/cmake/open_manipulator_descriptionConfig-version.cmake
+Symlinking /home/jungpin/catkin_ws/src/sim_ws/devel/share/open_manipulator_description/cmake/open_manipulator_descriptionConfig.cmake
+Symlinking /home/jungpin/catkin_ws/src/sim_ws/devel/lib/open_manipulator_description/open_manipulator_chain_rviz_pub
+Symlinking /home/jungpin/catkin_ws/src/sim_ws/devel/lib/pkgconfig/open_manipulator_description.pc

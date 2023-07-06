@@ -1,0 +1,1 @@
+/home/jungpin/catkin_ws/src/sim_ws/devel/.private/create_node/share/gennodejs/ros/create_node/_index.js

@@ -1,0 +1,1 @@
+/home/jungpin/catkin_ws/src/sim_ws/devel/.private/create_node/share/roseus/ros/create_node/msg/RawTurtlebotSensorState.l

@@ -1,0 +1,1 @@
+/home/jungpin/catkin_ws/src/sim_ws/devel/.private/open_manipulator_moveit/lib/pkgconfig/open_manipulator_moveit.pc

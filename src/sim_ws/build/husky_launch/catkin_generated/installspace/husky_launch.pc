@@ -1,0 +1,8 @@
+prefix=/home/jungpin/catkin_ws/src/sim_ws/install
+
+Name: husky_launch
+Description: Description of husky_launch
+Version: 0.2.5
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

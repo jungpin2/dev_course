@@ -1,0 +1,1 @@
+/home/jungpin/catkin_ws/src/sim_ws/devel/.private/open_manipulator_msgs/lib/python2.7/dist-packages/open_manipulator_msgs/__init__.py

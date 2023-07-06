@@ -1,0 +1,1 @@
+/home/jungpin/catkin_ws/src/sim_ws/devel/.private/follow_waypoints/lib/python2.7/dist-packages/follow_waypoints/__init__.py

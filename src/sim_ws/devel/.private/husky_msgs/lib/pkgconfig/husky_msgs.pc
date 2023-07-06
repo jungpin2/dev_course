@@ -1,0 +1,8 @@
+prefix=/home/jungpin/catkin_ws/src/sim_ws/devel/.private/husky_msgs
+
+Name: husky_msgs
+Description: Description of husky_msgs
+Version: 0.2.7
+Cflags: -I/home/jungpin/catkin_ws/src/sim_ws/devel/.private/husky_msgs/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_runtime

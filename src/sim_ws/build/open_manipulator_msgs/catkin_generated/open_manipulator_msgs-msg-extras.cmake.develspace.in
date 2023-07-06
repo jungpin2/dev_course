@@ -1,0 +1,2 @@
+set(open_manipulator_msgs_MESSAGE_FILES "/home/jungpin/catkin_ws/src/sim_ws/src/chapter10/turtlebot3/open_manipulator/open_manipulator_msgs/msg/JointPose.msg;/home/jungpin/catkin_ws/src/sim_ws/src/chapter10/turtlebot3/open_manipulator/open_manipulator_msgs/msg/KinematicsPose.msg")
+set(open_manipulator_msgs_SERVICE_FILES "/home/jungpin/catkin_ws/src/sim_ws/src/chapter10/turtlebot3/open_manipulator/open_manipulator_msgs/srv/GetJointPose.srv;/home/jungpin/catkin_ws/src/sim_ws/src/chapter10/turtlebot3/open_manipulator/open_manipulator_msgs/srv/GetKinematicsPose.srv")
